@@ -1,0 +1,10 @@
+{
+  "name": "v2ray-railway",
+  "description": "Deploy v2ray to Railway",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
